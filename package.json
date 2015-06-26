@@ -1,0 +1,22 @@
+{
+  "name": "ajayan108-project1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayan108/samadhi108.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ajayan108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajayan108/samadhi108/issues"
+  },
+  "homepage": "https://github.com/ajayan108/samadhi108#readme"
+}
